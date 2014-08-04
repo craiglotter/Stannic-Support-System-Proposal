@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Stannic Support System", "Stannic Support System.vdproj", "{108EC0F2-359B-4E43-B5D2-4C097707E4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{108EC0F2-359B-4E43-B5D2-4C097707E4A4}.Debug.ActiveCfg = Release
+		{108EC0F2-359B-4E43-B5D2-4C097707E4A4}.Debug.Build.0 = Release
+		{108EC0F2-359B-4E43-B5D2-4C097707E4A4}.Release.ActiveCfg = Release
+		{108EC0F2-359B-4E43-B5D2-4C097707E4A4}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

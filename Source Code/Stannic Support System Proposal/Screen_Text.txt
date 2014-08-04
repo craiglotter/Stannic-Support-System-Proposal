@@ -1,0 +1,174 @@
+@@@@1
+           CCC
+        CC         OOO                                                                                             I N F O P O I N T
+        CC        O     O  L                                                                                        RELEASE 2.0.1
+           CCC   O     O  L         L                                                                            A PRODUCT OF NEWTREND
+                      OOO    L         L          EEEE
+                                  LLLL  L          E             CCC
+                                              LLLL  EEE     CC        TTTTT
+                                                          EEEE  CC             T      I  
+                                                                        CCC        T      I   OOO
+                                                                                       T      I  O     O  N     N
+                                                                                                I  O    O   NN  N
+                                                                                                    OOO   N   NN
+                                                                                                               N      N
+        M         M      A      N     N       A       GGGG   EEEE  M         M  EEEE  N      N  TTTTT
+        MM   MM    A A    NN  N     A A     G          E         MM   MM  E         NN   N       T 
+        M   M   M   AA A   N  NN   A A A   G   G G  EEE    M   M   M  EEE    N   NN        T
+        M         M  A      A  N    N  A        A  GGGG   EEEE  M         M  EEEE  N     N        T
+                      
+                                          PLEASE ENTER THE FOLLOWING SIGN ON CRITERIA:
+                            BANK                 DEPARTMENT                  ADJUSTOR                 PASSWORD
+++++1
+The SICCS Collection Management option on 3270 emulation mode takes the user to the Infopoint Signon / Introductory Screen.
+####1
+Bank  =  Type 333 for Stannic and hit <Enter>
+####2
+Department  =  Type in your department number and hit <Enter>
+####3
+Adjustor = Type in your adjustor number and hit <Enter>
+####4
+Password = Type in your password and hit <Enter>
+@@@@2
+               OPERATOR:                                  STANNIC                               03-04-97 11:00
+               333 201 2000       INFOPOINT: COLLECTION MANAGEMENT             TM00
+                                                    A PRODUCT OF COMPUTER ASSOCIATES
+                                                                GOOD MORNING BC (A-K)
+
+THE * S Y S T E M * * IS AT YOUR SERVICE. ALL FILES HAVE BEEN UPDATED THRU 03-04-97. THE FOLLOWING MESSAGES HAVE BEEN QUEUED FOR THE 4TH DAY   MARCH   1997
+                                                 .                                                                     .
+                                                 .                                                                     .
+                                                 .                                                                     .
+                                                 .                                                                     .
+                                                 .                                                                     .
+                                                 .                                                                     .
+                                                 .                                                                     .
+
+
+
+
+
+F1=HELP       F3=EXIT       F6=ADJUSTOR TOTALS         F11=PRIMARY MENU
+++++1
+After entry of the sign-on criteria (bank, province, adjustor and password) on the Collection Management Introductory Screen, the Infopoint Collection Management Welcome screen appears.
+
+This screen lists your most recent online messages. If there are more messages, they can be viewed by pressing <GO/ENTER>. If you want to display the Primary Menu, press [F11].
+####1
+To proceed to the primary menu, press [F11]
+@@@@3
+               OPERATOR:                                  STANNIC                               03-04-97 11:00
+               333 201 2000       INFOPOINT: COLLECTION MANAGEMENT             TM00
+                                                               P R I M A R Y       M E N U
+                                            1.   FILE  MAINTENANCE  MENU
+                                            2.   DICTIONARY  MAINTENANCE  MENU
+                                            3.   INQUIRY  MENU
+                                            4.   MANAGEMENT  MENU
+                                            5.   ONLINE  PRINT
+                                            6.   WORK  YOUR  QUEUE
+                                            7.   ACCOUNT  SEARCH  FUNCTIONS
+                                            8.   REVIEW  ACCOUNTS  IN  YOUR  QUEUE
+                                            9.   REQUEST  A  LETTER  FOR  ONLINE  OR  OFFLINE
+                                          10.   REQUEST  A  REPORT
+                                          11.   WORK  ALTERNATIVE  QUEUE  ASSIGNED  TO  YOU
+
+QUICK  SIGN  ON  ====>  BANK:    333   DEPT:   201  ADJ:   2000   PASSWORD:    
+PLACE  CURS12:05 PM 2003/03/02OR OR KEY SELECTION NUMBER AND PRESS <ENTER>
+
+
+F1=HELP      F2=RETR      F3=EXIT     F12=PREVIOUS
+++++1
+The Primary Menu is the first menu that is displayed when you log into Collection Management. This menu provides access to all system functions.
+####1
+_
+++++2
+File Maintenance Menu (1)
+
+This option provides access to the Account Master File, Tickler File, Letter File and various other files. Select the desired option by moving the cursor over the appropriate menu entry and pressing GO/ENTER, or by entering the appropriate option number in the OPTION field and pressing GO/ENTER. This file is used to perform such functions as setting payment schedules, changing account information, etc. Most of these functions can also be performed from the Work Your Queue option.
+####1
+_
+++++3
+Dictionary Maintenance Menu (2)
+
+This menu is reserved for system administrator use.
+####1
+_
+++++4
+Inquiry Menu (3)
+
+The inquiry functions only allow you to view account data. No changes can be made. The File Maintenance Menu options can be used to alter account data. This option is generally used by administrative staff, who require view-only access.
+####1
+_
+++++5
+Management Menu (4)
+
+This menu provides access to online statistical reporting and other managerial functions. This option is for use by supervisors and management.
+####1
+_
+++++6
+Online Print (5)
+
+Access the print control facility for routing the printing of letters requested for online generation
+####1
+_
+++++7
+Work Your Queue (6)
+
+Work your assigned Collection Management accounts. If this option is selected, the
+
+- Queue Number,
+- Date If Working Future Accounts,
+- Display Accounts Already Worked, and
+- Adjustor Credited for Actions
+
+fields may also be required, (depending on the desired action).
+####1
+_
+++++8
+Account Search Functions (7)
+
+Display the Collection Management search facility, which allows you to search for the desired customer record(s) by a variety of search methods. For example, you can search for a specific customer record by specifying the:
+
+- maker name,
+- comaker name,
+- social security number
+- maker address
+- comaker address
+- home phone, or
+- business phone.
+
+This option is also available from the Account Work Screen.
+####1
+_
+++++9
+Review Accounts in Your Queue (8)
+
+Display a list of outstanding accounts, from which you can access account collection or inquiry options. The accounts will be listed in account number order. This option is also available from the Account Work Screen.
+####1
+_
+++++10
+Request a Letter for Online or Off-line (9)
+
+Display the stand-alone letter request screen. This screen can be used to request letters to be printed in the batch process or routed to online print for immediate production. Letters can also be requested from the Work Your Queue option.
+####1
+_
+++++11
+Request a Report (10)
+
+Request a report.
+####1
+_
+++++12
+Work Alternative Queue Assigned to You (11)
+
+Specify another queue and work accounts in that queue.
+####1
+_
+++++13
+Function Keys
+F1 - Display an online help screen that describes the currently displayed screen
+F2 - Display your online messages, if any.
+F3 - Exit current screen
+F12 - Display the previously viewed screen. This may not be the next highest screen in the menu hierarchy.
+####1
+Press the required Function key.
+EOF
